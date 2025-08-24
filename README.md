@@ -34,8 +34,7 @@ This Power BI dashboard provides a comprehensive analysis of Amazon product sale
 ## 📷 Screenshots
 Include screenshots of the dashboard here.
 
-![Dashboard Preview](UploadedImage0.jpg)
-
+(https://github.com/DataVoyagerX30/Amazon-Product-Sales-Analysis-with-DAX/blob/main/AMAZON%20BI%20DASHBOARD.jpg)
 ## 👤 Author
 **Piyush**
 
